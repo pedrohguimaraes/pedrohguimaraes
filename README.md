@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, good?
 
-<!--
-**pedrohguimaraes/pedrohguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
 
-Here are some ideas to get you started:
+My name is Pedro Guimarães, i have 27 years old, i'm software developer with focus in server side languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I founded @the4tuna with innovative ideas for the enjoyment of users who like to rely on luck. Our goal is to bring new perspectives to the market and how this can become profitable for everyone.
+
+#### Datailed Informations
+
+- Name: Pedro Guimarães
+- Age: 27
+- Living in: Salvador - BA, Brazil.
+- Stack: Node - PHP - Laravel - Nest - SQL - AWS
+- Learning: Go Lang and Software Engineering
