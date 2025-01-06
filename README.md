@@ -10,6 +10,5 @@ I founded @the4tuna with innovative ideas for the enjoyment of users who like to
 
 - Name: Pedro Guimarães
 - Age: 27
-- Living in: Salvador - BA, Brazil.
-- Stack: Node - PHP - Laravel - Nest - SQL - AWS
-- Learning: Go Lang and Software Engineering
+- Living in: São Paulo - SP, Brazil.
+- Stack: Java - Node - PHP - Laravel - Nest - SQL - AWS
